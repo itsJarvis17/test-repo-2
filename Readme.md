@@ -11,3 +11,7 @@ File changes for code in commit 2
 ## Commit 3
 
 some content
+
+## commit 4
+
+Fourth commit in test-repo-2
